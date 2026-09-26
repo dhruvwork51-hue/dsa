@@ -16,6 +16,7 @@ solved dsa questions
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/dhruvwork51-hue/dsa/tree/master/0040-combination-sum-ii) |
 | [1096-brace-expansion-ii](https://github.com/dhruvwork51-hue/dsa/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |
@@ -32,5 +33,6 @@ solved dsa questions
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/dhruvwork51-hue/dsa/tree/master/0040-combination-sum-ii) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/dhruvwork51-hue/dsa/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 <!---LeetCode Topics End-->
