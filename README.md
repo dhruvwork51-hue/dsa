@@ -11,6 +11,7 @@ solved dsa questions
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/dhruvwork51-hue/dsa/tree/master/0020-valid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/dhruvwork51-hue/dsa/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dhruvwork51-hue/dsa/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dhruvwork51-hue/dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -23,6 +24,7 @@ solved dsa questions
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/dhruvwork51-hue/dsa/tree/master/0020-valid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/dhruvwork51-hue/dsa/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dhruvwork51-hue/dsa/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dhruvwork51-hue/dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -43,6 +45,7 @@ solved dsa questions
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/dhruvwork51-hue/dsa/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dhruvwork51-hue/dsa/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dhruvwork51-hue/dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/dhruvwork51-hue/dsa/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
