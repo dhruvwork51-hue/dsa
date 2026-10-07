@@ -14,6 +14,7 @@ solved dsa questions
 | [0020-valid-parentheses](https://github.com/dhruvwork51-hue/dsa/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/dhruvwork51-hue/dsa/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/dhruvwork51-hue/dsa/tree/master/0032-longest-valid-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/dhruvwork51-hue/dsa/tree/master/0301-remove-invalid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/dhruvwork51-hue/dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1096-brace-expansion-ii](https://github.com/dhruvwork51-hue/dsa/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dhruvwork51-hue/dsa/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -24,6 +25,7 @@ solved dsa questions
 | ------- |
 | [0022-generate-parentheses](https://github.com/dhruvwork51-hue/dsa/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/dhruvwork51-hue/dsa/tree/master/0040-combination-sum-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/dhruvwork51-hue/dsa/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/dhruvwork51-hue/dsa/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |
@@ -37,6 +39,7 @@ solved dsa questions
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/dhruvwork51-hue/dsa/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/dhruvwork51-hue/dsa/tree/master/1096-brace-expansion-ii) |
 ## Sorting
 |  |
