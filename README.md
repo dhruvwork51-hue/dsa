@@ -49,12 +49,14 @@ solved dsa questions
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/dhruvwork51-hue/dsa/tree/master/1096-brace-expansion-ii) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/dhruvwork51-hue/dsa/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Array
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/dhruvwork51-hue/dsa/tree/master/0040-combination-sum-ii) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/dhruvwork51-hue/dsa/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/dhruvwork51-hue/dsa/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/dhruvwork51-hue/dsa/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -82,4 +84,13 @@ solved dsa questions
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/dhruvwork51-hue/dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/dhruvwork51-hue/dsa/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/dhruvwork51-hue/dsa/tree/master/2333-minimum-sum-of-squared-difference) |
+## Binary Search
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/dhruvwork51-hue/dsa/tree/master/2333-minimum-sum-of-squared-difference) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/dhruvwork51-hue/dsa/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
