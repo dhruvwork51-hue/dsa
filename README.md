@@ -70,6 +70,7 @@ solved dsa questions
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/dhruvwork51-hue/dsa/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/dhruvwork51-hue/dsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/dhruvwork51-hue/dsa/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/dhruvwork51-hue/dsa/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/dhruvwork51-hue/dsa/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/dhruvwork51-hue/dsa/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/dhruvwork51-hue/dsa/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -128,6 +129,7 @@ solved dsa questions
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dhruvwork51-hue/dsa/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/dhruvwork51-hue/dsa/tree/master/2409-count-days-spent-together) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/dhruvwork51-hue/dsa/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/dhruvwork51-hue/dsa/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Binary Indexed Tree
 |  |
