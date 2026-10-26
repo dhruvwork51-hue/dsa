@@ -52,6 +52,7 @@ solved dsa questions
 | [0301-remove-invalid-parentheses](https://github.com/dhruvwork51-hue/dsa/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/dhruvwork51-hue/dsa/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/dhruvwork51-hue/dsa/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/dhruvwork51-hue/dsa/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Sorting
 |  |
 | ------- |
@@ -74,6 +75,7 @@ solved dsa questions
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/dhruvwork51-hue/dsa/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/dhruvwork51-hue/dsa/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/dhruvwork51-hue/dsa/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/dhruvwork51-hue/dsa/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/dhruvwork51-hue/dsa/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/dhruvwork51-hue/dsa/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/dhruvwork51-hue/dsa/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -101,6 +103,7 @@ solved dsa questions
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/dhruvwork51-hue/dsa/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/dhruvwork51-hue/dsa/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/dhruvwork51-hue/dsa/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Greedy
 |  |
 | ------- |
@@ -157,6 +160,7 @@ solved dsa questions
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/dhruvwork51-hue/dsa/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dhruvwork51-hue/dsa/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/dhruvwork51-hue/dsa/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -193,4 +197,5 @@ solved dsa questions
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/dhruvwork51-hue/dsa/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/dhruvwork51-hue/dsa/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
