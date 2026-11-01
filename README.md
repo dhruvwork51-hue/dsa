@@ -67,6 +67,7 @@ solved dsa questions
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/dhruvwork51-hue/dsa/tree/master/0040-combination-sum-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/dhruvwork51-hue/dsa/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1254-number-of-closed-islands](https://github.com/dhruvwork51-hue/dsa/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dhruvwork51-hue/dsa/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/dhruvwork51-hue/dsa/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -148,6 +149,7 @@ solved dsa questions
 ## Math
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/dhruvwork51-hue/dsa/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dhruvwork51-hue/dsa/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/dhruvwork51-hue/dsa/tree/master/2409-count-days-spent-together) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/dhruvwork51-hue/dsa/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
