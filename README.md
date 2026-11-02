@@ -58,6 +58,7 @@ solved dsa questions
 ## Sorting
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/dhruvwork51-hue/dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1096-brace-expansion-ii](https://github.com/dhruvwork51-hue/dsa/tree/master/1096-brace-expansion-ii) |
 | [2126-destroying-asteroids](https://github.com/dhruvwork51-hue/dsa/tree/master/2126-destroying-asteroids) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/dhruvwork51-hue/dsa/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -68,6 +69,7 @@ solved dsa questions
 | ------- |
 | [0040-combination-sum-ii](https://github.com/dhruvwork51-hue/dsa/tree/master/0040-combination-sum-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/dhruvwork51-hue/dsa/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/dhruvwork51-hue/dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/dhruvwork51-hue/dsa/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dhruvwork51-hue/dsa/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/dhruvwork51-hue/dsa/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -150,6 +152,7 @@ solved dsa questions
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/dhruvwork51-hue/dsa/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/dhruvwork51-hue/dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dhruvwork51-hue/dsa/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/dhruvwork51-hue/dsa/tree/master/2409-count-days-spent-together) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/dhruvwork51-hue/dsa/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
