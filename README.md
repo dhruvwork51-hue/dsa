@@ -61,6 +61,7 @@ solved dsa questions
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/dhruvwork51-hue/dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1096-brace-expansion-ii](https://github.com/dhruvwork51-hue/dsa/tree/master/1096-brace-expansion-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/dhruvwork51-hue/dsa/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2126-destroying-asteroids](https://github.com/dhruvwork51-hue/dsa/tree/master/2126-destroying-asteroids) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/dhruvwork51-hue/dsa/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/dhruvwork51-hue/dsa/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -72,6 +73,7 @@ solved dsa questions
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/dhruvwork51-hue/dsa/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/dhruvwork51-hue/dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/dhruvwork51-hue/dsa/tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/dhruvwork51-hue/dsa/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dhruvwork51-hue/dsa/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/dhruvwork51-hue/dsa/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2126-destroying-asteroids](https://github.com/dhruvwork51-hue/dsa/tree/master/2126-destroying-asteroids) |
@@ -134,6 +136,7 @@ solved dsa questions
 ## Binary Search
 |  |
 | ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/dhruvwork51-hue/dsa/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/dhruvwork51-hue/dsa/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Heap (Priority Queue)
 |  |
@@ -218,6 +221,7 @@ solved dsa questions
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/dhruvwork51-hue/dsa/tree/master/0142-linked-list-cycle-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/dhruvwork51-hue/dsa/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
