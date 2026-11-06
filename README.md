@@ -9,6 +9,7 @@ solved dsa questions
 | [0142-linked-list-cycle-ii](https://github.com/dhruvwork51-hue/dsa/tree/master/0142-linked-list-cycle-ii) |
 | [1096-brace-expansion-ii](https://github.com/dhruvwork51-hue/dsa/tree/master/1096-brace-expansion-ii) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/dhruvwork51-hue/dsa/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2747-count-zero-request-servers](https://github.com/dhruvwork51-hue/dsa/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/dhruvwork51-hue/dsa/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/dhruvwork51-hue/dsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/dhruvwork51-hue/dsa/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -64,6 +65,7 @@ solved dsa questions
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/dhruvwork51-hue/dsa/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2126-destroying-asteroids](https://github.com/dhruvwork51-hue/dsa/tree/master/2126-destroying-asteroids) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/dhruvwork51-hue/dsa/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2747-count-zero-request-servers](https://github.com/dhruvwork51-hue/dsa/tree/master/2747-count-zero-request-servers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/dhruvwork51-hue/dsa/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/dhruvwork51-hue/dsa/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Array
@@ -79,6 +81,7 @@ solved dsa questions
 | [2126-destroying-asteroids](https://github.com/dhruvwork51-hue/dsa/tree/master/2126-destroying-asteroids) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/dhruvwork51-hue/dsa/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/dhruvwork51-hue/dsa/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2747-count-zero-request-servers](https://github.com/dhruvwork51-hue/dsa/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/dhruvwork51-hue/dsa/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/dhruvwork51-hue/dsa/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/dhruvwork51-hue/dsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -243,5 +246,6 @@ solved dsa questions
 ## Sliding Window
 |  |
 | ------- |
+| [2747-count-zero-request-servers](https://github.com/dhruvwork51-hue/dsa/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/dhruvwork51-hue/dsa/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 <!---LeetCode Topics End-->
