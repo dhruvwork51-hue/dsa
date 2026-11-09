@@ -30,6 +30,7 @@ solved dsa questions
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dhruvwork51-hue/dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/dhruvwork51-hue/dsa/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/dhruvwork51-hue/dsa/tree/master/2409-count-days-spent-together) |
+| [3838-weighted-word-mapping](https://github.com/dhruvwork51-hue/dsa/tree/master/3838-weighted-word-mapping) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/dhruvwork51-hue/dsa/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/dhruvwork51-hue/dsa/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Backtracking
@@ -97,6 +98,7 @@ solved dsa questions
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/dhruvwork51-hue/dsa/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/dhruvwork51-hue/dsa/tree/master/3665-twisted-mirror-path-count) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/dhruvwork51-hue/dsa/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3838-weighted-word-mapping](https://github.com/dhruvwork51-hue/dsa/tree/master/3838-weighted-word-mapping) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/dhruvwork51-hue/dsa/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/dhruvwork51-hue/dsa/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/dhruvwork51-hue/dsa/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -265,6 +267,7 @@ solved dsa questions
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/dhruvwork51-hue/dsa/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [3838-weighted-word-mapping](https://github.com/dhruvwork51-hue/dsa/tree/master/3838-weighted-word-mapping) |
 ## Ordered Set
 |  |
 | ------- |
