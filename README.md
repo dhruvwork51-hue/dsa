@@ -79,6 +79,7 @@ solved dsa questions
 | [1267-count-servers-that-communicate](https://github.com/dhruvwork51-hue/dsa/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/dhruvwork51-hue/dsa/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dhruvwork51-hue/dsa/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/dhruvwork51-hue/dsa/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/dhruvwork51-hue/dsa/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1882-process-tasks-using-servers](https://github.com/dhruvwork51-hue/dsa/tree/master/1882-process-tasks-using-servers) |
 | [2126-destroying-asteroids](https://github.com/dhruvwork51-hue/dsa/tree/master/2126-destroying-asteroids) |
@@ -148,6 +149,7 @@ solved dsa questions
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/dhruvwork51-hue/dsa/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/dhruvwork51-hue/dsa/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/dhruvwork51-hue/dsa/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/dhruvwork51-hue/dsa/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -259,4 +261,12 @@ solved dsa questions
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/dhruvwork51-hue/dsa/tree/master/1267-count-servers-that-communicate) |
+## Simulation
+|  |
+| ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/dhruvwork51-hue/dsa/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Ordered Set
+|  |
+| ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/dhruvwork51-hue/dsa/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 <!---LeetCode Topics End-->
