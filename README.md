@@ -51,6 +51,7 @@ solved dsa questions
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dhruvwork51-hue/dsa/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/dhruvwork51-hue/dsa/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dhruvwork51-hue/dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/dhruvwork51-hue/dsa/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -230,11 +231,13 @@ solved dsa questions
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/dhruvwork51-hue/dsa/tree/master/0142-linked-list-cycle-ii) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/dhruvwork51-hue/dsa/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/dhruvwork51-hue/dsa/tree/master/0142-linked-list-cycle-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/dhruvwork51-hue/dsa/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/dhruvwork51-hue/dsa/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
