@@ -144,6 +144,7 @@ solved dsa questions
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/dhruvwork51-hue/dsa/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/dhruvwork51-hue/dsa/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/dhruvwork51-hue/dsa/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/dhruvwork51-hue/dsa/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Binary Search
 |  |
 | ------- |
@@ -178,6 +179,7 @@ solved dsa questions
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/dhruvwork51-hue/dsa/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/dhruvwork51-hue/dsa/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/dhruvwork51-hue/dsa/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/dhruvwork51-hue/dsa/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Binary Indexed Tree
 |  |
 | ------- |
