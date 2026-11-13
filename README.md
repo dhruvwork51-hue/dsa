@@ -84,6 +84,7 @@ solved dsa questions
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/dhruvwork51-hue/dsa/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dhruvwork51-hue/dsa/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/dhruvwork51-hue/dsa/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [1732-find-the-highest-altitude](https://github.com/dhruvwork51-hue/dsa/tree/master/1732-find-the-highest-altitude) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/dhruvwork51-hue/dsa/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1882-process-tasks-using-servers](https://github.com/dhruvwork51-hue/dsa/tree/master/1882-process-tasks-using-servers) |
 | [2126-destroying-asteroids](https://github.com/dhruvwork51-hue/dsa/tree/master/2126-destroying-asteroids) |
@@ -296,4 +297,8 @@ solved dsa questions
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/dhruvwork51-hue/dsa/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/dhruvwork51-hue/dsa/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
