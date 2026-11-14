@@ -96,6 +96,7 @@ solved dsa questions
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/dhruvwork51-hue/dsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/dhruvwork51-hue/dsa/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/dhruvwork51-hue/dsa/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3364-minimum-positive-sum-subarray](https://github.com/dhruvwork51-hue/dsa/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/dhruvwork51-hue/dsa/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/dhruvwork51-hue/dsa/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/dhruvwork51-hue/dsa/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -269,6 +270,7 @@ solved dsa questions
 |  |
 | ------- |
 | [2747-count-zero-request-servers](https://github.com/dhruvwork51-hue/dsa/tree/master/2747-count-zero-request-servers) |
+| [3364-minimum-positive-sum-subarray](https://github.com/dhruvwork51-hue/dsa/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/dhruvwork51-hue/dsa/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/dhruvwork51-hue/dsa/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Counting
@@ -301,4 +303,5 @@ solved dsa questions
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/dhruvwork51-hue/dsa/tree/master/1732-find-the-highest-altitude) |
+| [3364-minimum-positive-sum-subarray](https://github.com/dhruvwork51-hue/dsa/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
