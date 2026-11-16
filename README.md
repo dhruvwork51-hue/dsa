@@ -29,6 +29,7 @@ solved dsa questions
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/dhruvwork51-hue/dsa/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dhruvwork51-hue/dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/dhruvwork51-hue/dsa/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/dhruvwork51-hue/dsa/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/dhruvwork51-hue/dsa/tree/master/2409-count-days-spent-together) |
 | [3614-process-string-with-special-operations-ii](https://github.com/dhruvwork51-hue/dsa/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/dhruvwork51-hue/dsa/tree/master/3838-weighted-word-mapping) |
@@ -284,6 +285,7 @@ solved dsa questions
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/dhruvwork51-hue/dsa/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/dhruvwork51-hue/dsa/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3614-process-string-with-special-operations-ii](https://github.com/dhruvwork51-hue/dsa/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/dhruvwork51-hue/dsa/tree/master/3838-weighted-word-mapping) |
 ## Ordered Set
