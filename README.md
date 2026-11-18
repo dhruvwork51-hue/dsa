@@ -32,6 +32,7 @@ solved dsa questions
 | [2243-calculate-digit-sum-of-a-string](https://github.com/dhruvwork51-hue/dsa/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/dhruvwork51-hue/dsa/tree/master/2409-count-days-spent-together) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/dhruvwork51-hue/dsa/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/dhruvwork51-hue/dsa/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3614-process-string-with-special-operations-ii](https://github.com/dhruvwork51-hue/dsa/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/dhruvwork51-hue/dsa/tree/master/3838-weighted-word-mapping) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/dhruvwork51-hue/dsa/tree/master/3841-palindromic-path-queries-in-a-tree) |
