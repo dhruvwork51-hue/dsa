@@ -206,6 +206,7 @@ solved dsa questions
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dhruvwork51-hue/dsa/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/dhruvwork51-hue/dsa/tree/master/2409-count-days-spent-together) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/dhruvwork51-hue/dsa/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3360-stone-removal-game](https://github.com/dhruvwork51-hue/dsa/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/dhruvwork51-hue/dsa/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/dhruvwork51-hue/dsa/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/dhruvwork51-hue/dsa/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -310,6 +311,7 @@ solved dsa questions
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/dhruvwork51-hue/dsa/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/dhruvwork51-hue/dsa/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/dhruvwork51-hue/dsa/tree/master/3360-stone-removal-game) |
 | [3614-process-string-with-special-operations-ii](https://github.com/dhruvwork51-hue/dsa/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/dhruvwork51-hue/dsa/tree/master/3838-weighted-word-mapping) |
 ## Ordered Set
