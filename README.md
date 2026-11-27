@@ -124,6 +124,7 @@ solved dsa questions
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/dhruvwork51-hue/dsa/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/dhruvwork51-hue/dsa/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/dhruvwork51-hue/dsa/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/dhruvwork51-hue/dsa/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -149,6 +150,7 @@ solved dsa questions
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/dhruvwork51-hue/dsa/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/dhruvwork51-hue/dsa/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/dhruvwork51-hue/dsa/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/dhruvwork51-hue/dsa/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Matrix
 |  |
 | ------- |
@@ -170,6 +172,7 @@ solved dsa questions
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/dhruvwork51-hue/dsa/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/dhruvwork51-hue/dsa/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/dhruvwork51-hue/dsa/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/dhruvwork51-hue/dsa/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Binary Search
 |  |
 | ------- |
